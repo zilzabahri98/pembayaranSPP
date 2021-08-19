@@ -1,6 +1,6 @@
         <div class="row mt-20">            
             <div class="col-lg-4 col-md-4 col-sm-12 mt-10">
-                <a href="<?php echo base_url('home');?>"><button class="btn-menu active">Pengumuman</button></a>               
+                <a href="<?php echo base_url('home');?>"><button class="btn-menu active">MAKALAH</button></a>               
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 mt-10">
                 <a href="<?php echo base_url('riwayat');?>"><button class="btn-menu">Riwayat Pembayaran</button></a>               
